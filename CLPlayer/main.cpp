@@ -1,6 +1,7 @@
 #include <iostream>
 #include "CLThread/MyThread.h"
 #include <thread>
+#include "stdio.h"
 
 class EncodeThread : public MyThread {
 public:

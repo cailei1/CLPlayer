@@ -6,3 +6,5 @@ set(CMAKE_CXX_STANDARD 14)
 add_subdirectory("CLPlayer")
 
 add_subdirectory("CLThread")
+
+add_subdirectory("CLAV")
