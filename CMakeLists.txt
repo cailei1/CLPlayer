@@ -7,4 +7,4 @@ add_subdirectory("CLPlayer")
 
 add_subdirectory("CLThread")
 
-add_subdirectory("CLAV")
+add_subdirectory("CLAVE")

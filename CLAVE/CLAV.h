@@ -2,10 +2,8 @@
 // Created by APPLE on 2023/2/3.
 //
 
-#pragma once
-
 extern "C" {
-#include <libavformat/avformat.h>
+#include<libavformat/avformat.h>
 }
 
 class CLAVPacket {
@@ -35,4 +33,4 @@ private:
 };
 
 
-#endif //CLPLAYER_CLREADER_H
+
